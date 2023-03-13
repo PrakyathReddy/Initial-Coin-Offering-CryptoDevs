@@ -1,1 +1,2 @@
 Crypto Devs Token Contract Address: 0xEFd0Df227Db2CA73FfA6fBe1e3D19511529381fa
+Sepolia Crypto Devs Token Contract Address: 0x1cDd6c5b0F38817EDAd8D942060657018fa78852
